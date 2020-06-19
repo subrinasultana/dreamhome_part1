@@ -41,7 +41,7 @@ header{
     float: left;
 }
 .menu ul li a{
-	text-decoration: none;
+    text-decoration: none;
     text-transform: uppercase;
     margin: 0 15px;
     display: inline-block;
@@ -74,29 +74,29 @@ header{
 }
 .banner_content h1{
 	font-family: sans-serif;
-    font-weight: 400;
-    font-size:25px ;
-    margin: 0 0;
-	color: #ACBDCD;
+    	font-weight: 400;
+    	font-size:25px ;
+    	margin: 0 0;
+	color: #ffffffe0;
 	text-transform: uppercase;
 	letter-spacing: 1px;
 }
 .banner_content p{
 	font-family: sans-serif;
 	font-size: 18px;
-	color: #ACBDCD;
+	color: #ffffffb5;
 }
 .banner_content button{
 	width: 125px;
-    height: 30px;
-    margin-top: 20px;
-    font-family: sans-serif;
-    color:#CAC0C1 ;
-    background-color: #372E31;
-    border: 0;
-    border-radius: 4px;
-    cursor: pointer;
-    transition: 0.3;
+    	height: 30px;
+    	margin-top: 20px;
+    	font-family: sans-serif;
+    	color:#CAC0C1 ;
+    	background-color: #372E31;
+    	border: 0;
+    	border-radius: 4px;
+    	cursor: pointer;
+    	transition: 0.3;
 }
 .banner_content button:focus{
     outline: 0;
